@@ -1,25 +1,32 @@
 <div align="center" >
-    <h1> Hi there, I'm Hamza Shabbir👋<a href="https://github.com/AYAN-IMRAN/"></h1>
+    <h1> Hi there, I'm Hamza Shabbir👋<a href="https://github.com/hamza-shabbir-ansari></h1>
   </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sedgwick+Ave+Display&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Gen+Ai+%26+Chatbot+Dev%F0%9F%A4%96;Web+Developer%F0%9F%92%BB;AI+Solutions%F0%9F%9A%80;Python+Developer%F0%9F%90%8D"></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&pause=1000&color=00FFFF&center=true&width=435&lines=Agentic+AI+%F0%9F%9A%80;Gen+AI+%26+Chatbot+Dev+%F0%9F%A4%96;AI+%26+Data+Science+%F0%9F%93%8A;Web+Dev+%F0%9F%8C%90;AI+Solutions+%F0%9F%92%A1" alt="Typing SVG" /></a></p>
 
 
 
 # About Me 👨‍💻
 <img align="right" alt="Coding" width="300"  style="border-radius:20px;"
 	src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc3MXJ4aGtiOG96Y2NrNGEwOGxydXRnYmJnb2R2MmFjaGNncjlqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"/>
-I'm an AI Chatbot & Web Developer with 1 year of hands-on experience in crafting modern web interfaces and building intelligent AI-powered solutions.
 
-- 🚀 **Specialized In**: Gen AI & Chatbot Development 🤖, Web Development
-- 🧠 **Technologies**: NLP, Dialogflow, Langchain 🦜🔗, Flowise, Kommunicate, Voiceflow.
-- 💼 **Current Focus**: Mastering Python and exploring Data Science for real-world AI applications
+I'm **Hamza Shabbir (Ansari)**, passionate about **Agentic AI** and its role in shaping the future of intelligent systems.  
+With 1+ year of hands-on experience in **AI solutions and web development**, I focus on building scalable, smart, and impactful technologies.  
 
-## 💡 Skills
+- 🚀 **Specialized In**: Agentic AI ⚡, Data Science 📊, Generative AI & Chatbots 🤖, Web Development 🌐  
+- 🌍 **Focus Areas**: Building intelligent systems, AI-driven automation, data-powered insights, and scalable digital solutions.  
+- 💼 **Current Focus**: Advancing skills in Agentic AI, Python, and Data Science to deliver next-gen AI-driven solutions.  
 
-- **Gen AI & Chatbot Development**
-- **Frontend Web Development**
+
+---
+
+## 💡 Skills  
+
+- **Agentic AI**  
+- **AI & Data Science**  
+- **Generative AI & Chatbot Development**  
+- **Frontend Web Development**  
 - **Python Programming**
 
 
@@ -29,9 +36,9 @@ I'm an AI Chatbot & Web Developer with 1 year of hands-on experience in crafting
 
 ##  Let’s Connect  🤝 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100061799678011)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hamxa_ansarii?igsh=MTk2OWVrMTdneGkyYw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shabbir-92b0302a5)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1N5ywGP14X/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hamza_shabbir_ansari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shabbir-ansari-92b0302a5/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HamzaSh09790287)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzuuansari456@gmail.com)
 
