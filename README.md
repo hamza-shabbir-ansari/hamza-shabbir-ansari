@@ -11,6 +11,8 @@
 <img align="right" alt="Coding" width="300" style="border-radius:20px;"
      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc3MXJ4aGtiOG96Y2NrNGEwOGxydXRnYmJnb2R2MmFjaGNncjlqcyZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif"/>
 
+<div align="left">
+
 I'm **Hamza Shabbir (Ansari)**, passionate about **Agentic AI** and its role in shaping the future of intelligent systems.  
 With 1+ year of hands-on experience in **AI solutions and web development**, I focus on building scalable, smart, and impactful technologies.  
 
@@ -28,6 +30,7 @@ With 1+ year of hands-on experience in **AI solutions and web development**, I f
 - Frontend Web Development  
 - Python Programming
 
+</div>
 
 
 
